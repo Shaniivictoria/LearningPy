@@ -1,0 +1,13 @@
+myvar = "Shani"
+my_var = "Shani"
+_my_var= "Shani"
+myVar = "Shani"
+MYVAR = "Shani"
+myvar2 = "Shani"
+
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
