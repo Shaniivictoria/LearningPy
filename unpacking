@@ -1,0 +1,6 @@
+colors = ["pink", "red", "blue"]
+x, y, z = colors
+
+print(x)
+print(y)
+print(z)
