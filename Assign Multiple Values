@@ -1,0 +1,5 @@
+M, E, G = "Mason", "Enzo", "Giovanni"
+
+print(M)
+print(E)
+print(G)
